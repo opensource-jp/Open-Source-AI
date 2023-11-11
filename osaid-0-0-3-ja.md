@@ -1,6 +1,8 @@
 # オープンソースAIの定義
 バージョン 0.0.3
 
+(原文：https://hackmd.io/@opensourceinitiative/osaid-0-0-3)
+
 :information_source： 注：この文書は3つの部分から構成されている： この文書の意図を述べた前文、オープンソースAIの定義そのもの、そしてライセンスを評価するためのチェックリストである。
 我々はユネスコが採用したAIの定義に従う。(https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449)
 
