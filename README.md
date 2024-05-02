@@ -1,9 +1,10 @@
 ## オープンソースAI
 
-現在、OSIが策定作業中の「オープンソースAIの定義」(Open Source AI Definition)の日本語訳を置く。
+現在、Open Source Initiativeが策定作業中の「オープンソースAIの定義」(Open Source AI Definition)の日本語参考訳を逐次置いていく。これらの参考訳はあくまでAIシステムがオープンソースであるための議論の経過を残しておくために訳されているものである。
 
 - [バージョン0.0.3](osaid-0-0-3-ja.md)
 - [バージョン0.0.4](osaid-0-0-4-ja.md)
 - [バージョン0.0.5](osaid-0-0-5-ja.md)
 - [バージョン0.0.6](osaid-0-0-6-ja.md)
 - [バージョン0.0.7.1](osaid-0-0-7-ja.md)
+- [バージョン0.0.8](osaid-0-0-8-ja.md)
