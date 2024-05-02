@@ -44,7 +44,7 @@ AIによるこれらの恩恵は誰もが必要としている。ユーザーが
 
 # 機械学習システムを評価するためのチェックリスト
 
-このチェックリストは、2024年3月21日に発行された論文[「The Model Openness Framework: Promoting Completeness and Openness for Reproducibility, Transparency and Usability in AI」](https://arxiv.org/abs/2403.13784)に基づいています。
+このチェックリストは、2024年3月21日に発行された論文[「The Model Openness Framework: Promoting Completeness and Openness for Reproducibility, Transparency and Usability in AI」](https://arxiv.org/abs/2403.13784)に基づいている。
 
 ### デフォルトの必須コンポーネントの表
 
